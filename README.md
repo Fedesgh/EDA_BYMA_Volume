@@ -13,39 +13,39 @@ are in the leading panel.
 ♦ Firstly we can find that the total volume per day of both panels has a correlation of 0.36 throughout the year
 
 
-![correlationvolumes.png](correlationvolumes.png)
+![correlationvolumes.png](images/correlationvolumes.png)
 
 
 Correlation of the volume of each stock in the general panel with the total volume of the leading panel:
 
 
-![eachgeneralvsleading.png](eachgeneralvsleading.png)
+![eachgeneralvsleading.png](images/eachgeneralvsleading.png)
 
 
 ♦ An important period occurring between 2024-01-18 and 2024-02-05 is when the overall panel volume increases above that of the leading panel:
 
-![year.png](year.png)
+![year.png](images/year.png)
 
 
-![yearzoom.png](yearzoom.png)
+![yearzoom.png](images/yearzoom.png)
 
 
  This excess on volume were mainly due to CARC , AGRO, BOLT, LONG. BHIP , MORI:
 
 
- ![pie.png](pie.png)
+ ![pie.png](images/pie.png)
 
 
- ![pike.png](pie.png)
+ ![pike.png](images/pie.png)
 
 
  ♦ Two stocks could have the same volume but their price could go in oposit directions and this could be a clue of capital flow from one group of stocks to another, but this was not the case.
 
 
- We can see the price change correlation at 2024-01-18 to 2024-02-05: 
+ We can see the price change correlation between 2024-01-18 and 2024-02-05: 
 
 
- ![correlations.png](correlations.png)
+ ![correlations.png](images/correlations.png)
 
 
 
@@ -53,7 +53,21 @@ Compared with the correlation matrix of price change over the year, we can see t
 
 
 
- ![pricechangecorr.png](pricechangecorr.png)
+ ![pricechangecorr.png](images/pricechangecorr.png)
+
+
+
+ ## Resume 
+
+ <li>Volumes in general have a neutral to positive correlation</li>
+<li>Price changes generally have a neutral to positive correlation</li>
+<li>There was a period from 2024-01-18 to 2024-02-05 were volume of stocks on general panel exceeded the leading panel</li>
+<li>The increase in volume at 2024-01-18 to 2024-02-05 of general panel stocks, were mainly due to CARC , AGRO, BOLT, LONG. BHIP , MORI</li>
+<li>AGRO at 2024-01-18 to 2024-02-05 had a neutral to positve correlation with the leading panel unlike to the negative correlation throughou the year</li>
+<li>The higest pike at 2024-01-25 in change of volume and price were followed by a profit-taking</li>
+<li>Given the correlation of price changes in general there is no evidence of capital flow from one group to another</li>
+<li>Correlation Matrices shows interesting relationships between groups of stock for further study</li>
+</ul>
 
 
  
